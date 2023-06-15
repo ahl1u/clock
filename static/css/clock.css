@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    }  
+
+h1 {
+    color:black;
+    font-size: xx-large;
+    font-weight: 400;
+    margin-bottom: -5px;
+}
+
+#clock {
+    color: #666;
+    font-size: 5em;
+  }
